@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">📚 I'm currently learning Typescript<br>🖥️Personal Website : https://firatyolal.com/</p>
+<p align="left">📚 I'm currently learning Typescript<br>🖥️Personal Website : https://firatyolal.com/<br>📧Mail Address : firatyll213@gmail.com</p>
 
 ###
 
